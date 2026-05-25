@@ -39,4 +39,4 @@ Interactive financial dashboard analyzing Tesla revenue, profitability, market c
 ---
 
 ## Author
-Your Name
+Rudra Patel
