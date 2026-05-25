@@ -27,7 +27,7 @@ Interactive financial dashboard analyzing Tesla revenue, profitability, market c
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](tesla dashboard.pdf)
 
 ---
 
